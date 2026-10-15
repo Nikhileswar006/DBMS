@@ -827,18 +827,6 @@ SELECT COUNT(*) FROM reminders;
 
 These queries show the number of records in each table.
 
-### 10.6 Demonstration Checklist
-
-- [ ] PostgreSQL database created successfully.
-- [ ] All eight tables created successfully.
-- [ ] Flask application connects to PostgreSQL.
-- [ ] Frontend pages load successfully.
-- [ ] Implemented CRUD operations work.
-- [ ] Changes made through the application appear in PostgreSQL.
-- [ ] Primary-key, foreign-key, unique, and check constraints behave correctly.
-- [ ] ER diagram and UML diagram are included in the repository.
-- [ ] SQL queries execute successfully.
-- [ ] Screenshots of the working application and query results are included if required.
 
 ---
 
