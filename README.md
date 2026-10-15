@@ -156,9 +156,9 @@ The database design contains the following entities:
 
 Save the ER diagram image in the repository and reference it as follows:
 
-```markdown
-![ER Diagram](docs/er_diagram.png)
-```
+<p align="center">
+  <img src="Your paragraph text (1).png" width="200" alt="Image">
+</p>
 
 Replace `docs/er_diagram.png` with the actual path and filename of your image.
 
