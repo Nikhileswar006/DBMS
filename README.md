@@ -178,9 +178,9 @@ Depending on the features implemented in the application, these actions may incl
 
 Save the UML diagram image in the repository and reference it as follows:
 
-```markdown
-![UML Use-Case Diagram](docs/uml_diagram.png)
-```
+<p align="center">
+  <img src="Student Study Management Use-Case Diagram.png" width="700" alt="Use-Case Diagram">
+</p>
 
 Replace the image path with the actual location of your UML diagram.
 
