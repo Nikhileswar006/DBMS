@@ -14,9 +14,9 @@ DBMS project
 
 | S. No. | Team Member  | Roll Number     |
 | ------ | ------------ | --------------- |
-| 1      | B. Nikhil    | Add roll number |
-| 2      | Sane Sandeep | Add roll number |
-| 3      | Adith        | Add roll number |
+| 1      | B. Nikhil    | CB.SC.U4AIE24063|
+| 2      | Sane Sandeep | CB.SC.U4AIE24047|
+| 3      | Adith        | CB.SC.U4AIE24003|
 
 ---
 
